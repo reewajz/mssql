@@ -1,0 +1,9 @@
+{
+  "user": "SA",
+  "password": "Palmmind*8",
+  "server": "localhost",
+  "database": "TesT",
+  "options": {
+    "eccrypt": true
+  }
+}
