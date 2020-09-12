@@ -15,7 +15,7 @@
     "iplocation": "^6.1.0",
     "morgan": "~1.9.1",
     "mssql": "^5.1.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "public-ip": "^3.1.0"
   }
 }
